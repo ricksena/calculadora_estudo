@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\bin\Debug\net6.0\Cadastro001.exe
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\bin\Debug\net6.0\Cadastro001.deps.json
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\bin\Debug\net6.0\Cadastro001.runtimeconfig.json
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\bin\Debug\net6.0\Cadastro001.dll
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\bin\Debug\net6.0\Cadastro001.pdb
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.dll
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\refint\Cadastro001.dll
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.pdb
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\Cadastro001.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Ricardo Sena\Programa 001\Cadastro001\obj\Debug\net6.0\ref\Cadastro001.dll
